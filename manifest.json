@@ -1,0 +1,10 @@
+﻿{
+	"name": "Umbra_Squad",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Klehrik/RoRR-UmbraSquad",
+	"description": "Gain the Judgement umbras as allies (to make solo runs feel less lonely).",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.23",
+		"Klehrik-HelperFunctions-1.0.4"
+	]
+}
